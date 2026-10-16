@@ -1,7 +1,8 @@
 {
-   "name": "Obsidian Nord",
-   "version": "0.2.0",
-   "minAppVersion": "0.16.0",
-   "author": "insanum",
-   "authorUrl": "https://insanum.com"
+  "name": "Obsidian Nord Customized",
+  "version": "0.1",
+  "minAppVersion": "1.14.0",
+  "author": "yashiz (forked from original work by insanum)",
+  "authorUrl": "https://github.com/yadron15629",
+  "isDesktopOnly": false
 }
